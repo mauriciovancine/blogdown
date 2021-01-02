@@ -1,0 +1,42 @@
+---
+title: "ATLANTIC AMPHIBIANS: Conjunto de Dados de Comunidades de Anfíbios da Mata Atlântica"
+subtitle: 
+draft: false
+event: "I Anfíbios em Foco (ANFoCO) - Simpósio Brasileiro de Conservação de Anfíbios"
+event_url: https://asgbrasil.wixsite.com/anfoco
+location: São Paulo, SP, Brazil
+summary: "Palestra - Banco de dados de comunidades de anfíbios para a Mata Atlântica"
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2018-08-04T16:30:00Z"
+date_end: "2018-08-04T16:45:00Z"
+all_day: false
+publishdate: "2020-03-07"
+
+links:
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: "https://mauriciovancine.github.io/slides/2018_palestra_anfoco.pdf"
+- icon: book
+  icon_pack: fas
+  name: resumos
+  url: "https://786a59ff-4099-4c37-8d3f-2fe39152753e.filesusr.com/ugd/99d5c4_a555a73fa21a4ca99c4183ca07d0dd30.pdf"
+
+categories:
+  - talk
+tags:
+  - dataset
+  - amphibians
+  - community ecology
+lastmod: "2018-07-30"
+featured: no
+image:
+  caption: "[Imagem by ANFoCO](https://asgbrasil.wixsite.com/anfoco)"
+  focal_point: "center"
+  preview_only: no
+projects: []
+---
+
+As incertezas acerca da diversidade e distribuição de espécies é um dos principais desafios para a biologia da conservação. O Bioma da Mata Atlântica é considerado um dos hotspots de biodiversidade mais ameaçados do mundo, detendo ainda um elevado número de espécies de anfíbios. Neste trabalho, apresentamos uma minuciosa compilação de comunidades de anfíbios para a Mata Atlântica. O conjunto de dados foi organizado com base numa ampla delimitação geográfica do bioma, englobando ecótonos e áreas do Paraguai e Argentina. Todos as informações das comunidades foram obtidas de artigos, livros e literatura não publicada (monografias de graduação, dissertações e teses). Organizamos informações sobre: 1) habitat amostrado, 2) métodos de amostragem, 3) horário de amostragem, 4) esforço amostral (mês e ano inicial e final), 5) composição ou abundância das espécies, 6) endemismo, e 7) localização geográfica (latitude, longitude, país, estado, município e localidade específica). Fizemos atualizações taxonômicas segundo os dados da base do Amphibian Species of the World: an Online Reference, para setembro de 2017. O banco de dados foi estruturado a partir de 389 referências, amostradas entre os anos de 1940 a 2017, que incluiu 1.163 locais de estudo, para os quais há 17.619 registros de 528 espécies com certeza taxonômica. Do total de registros, 14.450 (82%) foram classificados de acordo com o critério do endemismo ao Bioma da Mata Atlântica, dos quais 7.787 (44%) foram considerados endêmicos. Os métodos mais representativos foram: 1) busca visual ou auditiva (82,1%), 2) busca em sítio reprodutivo (20%), 3) armadilha de interceptação e queda (pitfall, 15,3%), e 4) encontro ocasional (14,5%). Dentre os habitats amostrados, nenhum foi predominante, apesar do habitat florestal ter sido relatado com maior frequência (40,7%). A maior parte dos locais de estudo tiveram amostragem realizada em corpos d'água: riacho no interior da floresta (33,5%), poça permanente (30,2%), lago (28,9%), brejo (28,6%), poça temporária (27,5%), poça semipermanente (5,8%) e riacho em área aberta (4,5%). A riqueza de espécies foi de 15,2 ± 11,3 DP, variando de 1 a 80 espécies por local. Houve um grande viés de amostragem, sendo que a maioria das amostragens foi realizada nos estados de São Paulo (38,4%), Paraná (14,2%) e Minas Gerais (10,1%), representando coletivamente quase 63% das pesquisas. Esse alto viés para esses três estados pode ter sido por diversos motivos: 1) descrição de dois ou mais locais de estudo para a mesma referência; 2) processo histórico de formação de pesquisadores, além do incentivo de pesquisas de amostragem de anfíbios pelo Programa BIOTA-FAPESP; e 3) numerosas coleções herpetológicas, que possivelmente atraiu pesquisadores para realizar trabalhos taxonômicos. O resultado dessa compilação de dados gerou um panorama geral da diversidade, composição, métodos e esforço amostral das comunidades de anfíbios para o Bioma da Mata Atlântica, representando um enorme esforço para preencher uma lacuna de conhecimento acerca da biodiversidade de anfíbios na Região Neotropical. Esperamos que estes dados possam ser utilizados como uma ferramenta para a conservação deste grupo, além de ser uma fonte de dados importante para estudos de padrões macroecológicos e biogeográficos

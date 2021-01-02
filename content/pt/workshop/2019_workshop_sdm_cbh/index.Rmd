@@ -1,0 +1,42 @@
+---
+title: "Introdução à modelagem de distribuição de espécies usando a linguagem R: teoria e prática"
+subtitle:
+draft: false
+event: "9º CBH – IX Congresso Brasileiro de Herpetologia"
+event_url: https://9cbh.galoa.com.br/
+location: Campinas, SP, Brazil
+summary: "Introdução à Modelos Distribuição de Espécies (SDMs) realizado no IX Congresso Brasileiro de Herpetologia"
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2019-07-22T08:00:00Z"
+date_end: "2019-07-22T16:00:00Z"
+all_day: false
+publishdate: "2020-03-07"
+
+links:
+- icon: link
+  icon_pack: fas
+  name: evento
+  url: "https://9cbh.galoa.com.br/"
+- icon: gitlab
+  icon_pack: fab
+  name: material
+  url: "https://gitlab.com/mauriciovancine/course-sdm"
+
+categories:
+  - short course
+tags:
+  - short course
+  - species distribution modeling
+  - r
+lastmod: "2018-07-30T02:20:01-07:00"
+featured: no
+image:
+  caption: "[Imagem by Galoá](https://9cbh.galoa.com.br/)"
+  focal_point: "center"
+  preview_only: no
+projects: []
+---
+
+A ampla disponibilidade de dados sobre a biodiversidade e variáveis ambientais, tem permitido a utilização de diversas análises biogeográficas e macroecológicas, dentre elas, os modelos de distribuição de espécies ou Species Distribution Modeling (SDMs). Esse minicurso tem como intuito oferecer uma introdução teórica e prática à técnica de SDMs, utilizando a linguagem R. Primeiramente serão apresentados os principais conceitos da teoria de nicho ecológico (Grinnell, Elton e Hutchinson) e da teoria de modelos (espaço geográfico (G), espaço ambiental (E) e diagrama Biótico-Abiótico-Movimentação (BAM)). Seguida à parte teórica, serão apresentados as principais bases de dados (ocorrências e variáveis ambientais), tipos de algoritmos (presença e ausência – GLM, GAM e Random Forest, apenas presença – BIOCLIM, Mahalanobis e Gower, e presença e background – Maxent e SVM), avaliação dos modelos (ROC, AUC e TSS), limites de corte (thresholds) e algumas abordagens de consenso de modelos (ensembles). A parte prática será focada na construção dos modelos através da linguagem R. Inicialmente será feito uma introdução à programação e manejo de dados espaciais na linguagem R, utilizando os pacotes raster e rgdal. Em seguida, será apresentado como obter dados de ocorrências e variáveis ambientais, através dos pacotes spooc e dismo. Uma vez adquiridos os dados, serão feitas análises preliminares dos mesmos, como seleção de ocorrências (um ponto por célula) e de variáveis (correlação, PCA, análise fatorial e VIF). Por fim, serão construídos modelos utilizando os algoritmos mencionados acima, além do cálculo das métricas de avaliação dos mesmos, utilizando os pacotes dismo, randomForest e kernlab

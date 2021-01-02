@@ -1,0 +1,41 @@
+---
+title: "Introduction to R Language"
+subtitle:
+draft: false
+event: "30ª Semana de Estudos da Biologia"
+event_url: https://www.facebook.com/SEBioRC/
+location: Rio Claro, SP, Brazil
+summary: "Introduction to the R language carried out in 30ª Semana de Estudos da Biologia"
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2019-10-23T14:00:00Z"
+date_end: "2019-10-24T12:00:00Z"
+all_day: false
+publishdate: "2020-03-08"
+
+links:
+- icon: link
+  icon_pack: fas
+  name: event
+  url: "https://www.facebook.com/SEBioRC/"  
+- icon: github
+  icon_pack: fab
+  name: material
+  url: "https://github.com/mauriciovancine/minicurso-r-sebio-2019"
+
+categories:
+  - short course
+tags:
+  - short course
+  - r
+lastmod: "2019-10-22"
+featured: no
+image:
+  caption: "[Imagem by SEB](https://www.facebook.com/SEBioRC/)"
+  focal_point: "center"
+  preview_only: no
+projects: []
+---
+
+The R language has stood out in recent years (since 2000), as the main tool for data management, visualization and analysis, mainly in the area of Ecology, Psychology, Economics, and more recently, in Data Science. In this course, four introductory themes of this language will be addressed: (i) introduction and operation of the R language and RStudio software, (ii) data structure and manipulation, (iii) introduction to tidyverse, and (iv) data visualization. The workload will be approximately 08 hours, where the theoretical-practical part will be focused, interspersed with exercises to fix the content. At the end of the course, participants are expected to have a general understanding of language functioning and potential applications within the area of ecological data analysis

@@ -1,0 +1,27 @@
+{{- define "main" -}}
+
+<article class="article">
+
+  {{ partial "page_header" . }}
+
+  <div class="article-container">
+
+    <div class="article-style">
+      {{ .Content }}
+    </div>
+    <div class="col-12 col-lg-10ish article-style">
+    <script src="https://utteranc.es/client.js"
+        repo="rbind/apreshill"
+        issue-term="title"
+        label="comments :crystal_ball:"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+    </script>
+    </div>
+    {{ partial "page_footer" . }}
+
+  </div>
+</article>
+
+{{- end -}}

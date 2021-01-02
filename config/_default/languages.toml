@@ -1,0 +1,52 @@
+# Languages
+#   Create a `[X]` block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
+
+# Configure the English version of the site.
+[en]
+  languageCode = "en-us"
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+
+# Uncomment the lines below to configure your website in a second language.
+[pt]
+  languageCode = "pt"
+  contentDir = "content/pt"
+  title = "Maurício Vancine"
+  [pt.params]
+    description = "Site in Portuguese"
+  [[pt.menu.main]]
+    name = "Posts"
+    url = "/post"
+    weight = 10
+  [[pt.menu.main]]
+    name = "Palestras"
+    url = "/talk"
+    weight = 20
+  [[pt.menu.main]]
+    name = "Vídeos"
+    url = "/video"
+    weight = 30
+  [[pt.menu.main]]
+    name = "Projetos"
+    url = "/project"
+    weight = 40
+  [[pt.menu.main]]
+    name = "Publicações"
+    url = "/publication"
+    weight = 50
+  [[pt.menu.main]]
+    name = "Cursos"
+    url = "/workshop"
+    weight = 60
+  [[pt.menu.main]]
+    name = "Disciplinas"
+    url = "/courses"
+    weight = 70  
+  [[pt.menu.main]]
+    name = "CV"
+    url = "https://mauriciovancine.github.io/cv/cv_mauricio_vancine_pt_academic_complete.html"
+    weight = 80
+  [[pt.menu.main]]
+    name = "Sobre"
+    url = "/about"
+    weight = 90

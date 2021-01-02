@@ -1,0 +1,62 @@
+Os pacotes indispensáveis para *manipulação* de dados geoespaciais no R
+1. sp
+2. sf
+3. raster/terra
+4. rgdal 
+5. stars
+
+Os pacotes indispensáveis para *download* de dados geoespaciais no R
+1. rnaturalearth
+2. geobr
+3. 
+4. 
+5. 
+
+Os pacotes indispensáveis para *visualização* de dados geoespaciais no R
+1. ggplot2
+2. tmap
+3. ggmap
+4. cartography
+5. leaflet
+
+Os pacotes indispensáveis para *análises* de dados geoespaciais no R
+1. spatstats
+2. gstat
+3. geoR
+4.
+5.
+
+Os pacotes indispensáveis para *integração* com outros softwares de geoprocessamento no R
+1. RQGIS
+2. rgrass7 
+3. RSAGA
+4. rpostgis 
+5. RPyGeo
+
+Os pacotes indispensáveis para *sensoriamento remoto* no R
+1. landsat
+2. terra
+3. 
+4. 
+5. 
+
+Os nomes indispensáveis para se conhecer sobre dados geoespaciais no R
+1. Roger Bivand
+2. Edzer Pebesma
+3. Robin Lovelace
+4. Jakub Nowosad
+5. Paulo Justiniano Ribeiro Junior
+
+Os livros indispensáveis para se estudar sobre dados geoespaciais no R
+1. Geocomputation with R
+2. Applied Spatial Data Analysis with R
+3. An Introduction to R for Spatial Analysis and Mapping
+4. 
+5. 
+
+Os blogs indispensáveis para se conhecer sobre dados geoespaciais no R
+1. r-spatial (https://www.r-spatial.org/)
+2. Spatial Data Science (https://www.rspatial.org/)
+3. 
+4. 
+5. 

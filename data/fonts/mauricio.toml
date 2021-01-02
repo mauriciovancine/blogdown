@@ -1,0 +1,11 @@
+# Font style metadata
+name = "mauricio"
+
+# Optional Google font URL
+google_fonts = "Ubuntu:400,400i|Ubuntu:400,400i,700,700i|Ubuntu"
+
+# Font families
+heading_font = "Ubuntu"
+body_font = "Ubuntu"
+nav_font = "Ubuntu"
+mono_font = "Ubuntu"
