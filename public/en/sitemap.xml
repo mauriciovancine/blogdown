@@ -2456,6 +2456,24 @@
   </url>
   
   <url>
+    <loc>https://mauriciovancine.github.io/book/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/book/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/book/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/talk/book/</loc>
+  </url>
+  
+  <url>
     <loc>https://mauriciovancine.github.io/author/mauricio-vancine/</loc>
     <xhtml:link
                 rel="alternate"

@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>Introdução à modelagem de distribuição de espécies usando a linguagem R: teoria e prática</title>
+      <title>Introdução à modelagem de distribuição de espécies usando a linguagem R</title>
       <link>https://mauriciovancine.github.io/pt/workshop/workshop-sdm-moco-2021/</link>
       <pubDate>Sat, 25 Sep 2021 09:00:00 +0000</pubDate>
       <guid>https://mauriciovancine.github.io/pt/workshop/workshop-sdm-moco-2021/</guid>
@@ -535,6 +535,14 @@ raster::writeRaster(x = mun_raster,
 &lt;td style=&#34;text-align:left&#34;&gt;Dados de elevação para o mundo&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://opentopography.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenTopography&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Dados de elevação para o mundo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MERIT DEM: Multi-Error-Removed Improved-Terrain DEM&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Dados de elevação de diversas fontes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://geoservice.dlr.de/web/maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geoservice Maps&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Dados de elevação e florestas para o mundo&lt;/td&gt;
 &lt;/tr&gt;
@@ -548,6 +556,10 @@ raster::writeRaster(x = mun_raster,
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://due.esrin.esa.int/page_globcover.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GlobCover&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Dados de uso e cobertura da terra para todo o planeta&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://glad.umd.edu/dataset/global-land-cover-land-use-v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Global land cover and land use 2019&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Dados de uso e cobertura da terra para todo o planeta&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -576,6 +588,10 @@ raster::writeRaster(x = mun_raster,
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://luh.umd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Land-Use Harmonization (LUH2)&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Dados atuais e previsões de uso da terra&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://iiasa.ac.at/web/home/research/GLOBIOM/GLOBIOM.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Global Biosphere Management Model (GLOBIOM)&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Dados atuais e previsões de uso da terra&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -615,6 +631,26 @@ raster::writeRaster(x = mun_raster,
 &lt;td style=&#34;text-align:left&#34;&gt;Dados de solo para o mundo&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_Hydro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MERIT Hydro: global hydrography datasets&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Dados de hidrologia do mundo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://hydro.iis.u-tokyo.ac.jp/~yamadai/OSM_water/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OSM Water Layer: Surface Waters in OpenStreetMap&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Dados de hidrologia do mundo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://hydro.iis.u-tokyo.ac.jp/~yamadai/G3WBM/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Global 3-second/1-second Water Body Map&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Dados de hidrologia do mundo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://hydro.iis.u-tokyo.ac.jp/~yamadai/GWD-LR/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GWD-LR: Global Width Database of Large Rivers&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Dados de hidrologia do mundo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CaMa-Flood: Global River Hydrodynamics Model&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Dados de hidrologia do mundo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://www.hydrosheds.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HydroSHEDS&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Dados de hidrologia do mundo&lt;/td&gt;
 &lt;/tr&gt;
@@ -632,6 +668,10 @@ raster::writeRaster(x = mun_raster,
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.oracle.ugent.be/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bio-ORACLE&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Dados de condições do oceano para o mundo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://marine.copernicus.eu/access-data/myocean-viewer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MyOcean&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Dados de condições do oceano para o mundo&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

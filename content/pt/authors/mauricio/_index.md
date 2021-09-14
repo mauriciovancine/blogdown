@@ -15,7 +15,7 @@ email: "mauricio.vancine@gmail.com"
 highlight_name: true
 interests:
 - Ecologia Espacial
-- Ecologia Quantitativa
+- Modelagem Ecológica
 - Modelos de Distribuição de Espécies
 - Ecologia de Anfíbios
 - Open source / Free software
@@ -52,4 +52,4 @@ superuser: true
 title: Maurício Vancine
 ---
 
-Sou Ecólogo Espacial e Doutorando no [Departamento de Biodiversidade](https://ib.rc.unesp.br/#!/departamentos/ecologia/) da [Universidade Estadual Paulista](https://ib.rc.unesp.br/#!/), Rio Claro, Brasil. Possuo experiência em ecologia da paisagem, efeitos da perda e fragmentação de habitat, ecologia de anfíbios, modelagem de distribuição de espécies, análise de dados ecológicos e espaciais.
+Sou Ecólogo Espacial e Doutorando no [Departamento de Biodiversidade](https://ib.rc.unesp.br/#!/departamentos/ecologia/) da [Universidade Estadual Paulista](https://ib.rc.unesp.br/#!/), Rio Claro, Brasil. Possuo experiência em ecologia da paisagem, efeitos da perda e fragmentação de habitat, ecologia de anfíbios, modelagem de distribuição de espécies, análise de dados ecológicos e geoespaciais.

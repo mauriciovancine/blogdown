@@ -15,7 +15,7 @@ email: "mauricio.vancine@gmail.com"
 highlight_name: true
 interests:
 - Spatial Ecology
-- Quantitative Ecology
+- Ecological Modeling
 - Species Distribution Modeling
 - Amphibian Ecology
 - Open source / Free software
