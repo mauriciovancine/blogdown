@@ -26,7 +26,7 @@ links:
 - icon: chalkboard-teacher
   icon_pack: fas
   name: slides
-  url: "https://mauriciovancine.github.io/workshop-qgis/01_slides/slides_workshop_qgis.html#1"
+  url: "https://mauriciovancine.github.io/workshop-qgis/01_slides/slides_workshop_qgis.html"
 
 categories:
   - workshop
