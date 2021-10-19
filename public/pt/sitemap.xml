@@ -349,7 +349,7 @@
   
   <url>
     <loc>https://mauriciovancine.github.io/pt/author/alexine-keuroghlian/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -364,7 +364,7 @@
   
   <url>
     <loc>https://mauriciovancine.github.io/pt/author/ben-colleni/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -379,7 +379,7 @@
   
   <url>
     <loc>https://mauriciovancine.github.io/pt/author/carlos-a.peres/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -389,6 +389,96 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://mauriciovancine.github.io/pt/author/carlos-a.peres/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/author/julia-emi-de-faria-oshima/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/author/julia-emi-de-faria-oshima/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/author/julia-emi-de-faria-oshima/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/author/luca-borger/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/author/luca-borger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/author/luca-borger/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/author/maria-luisa-s.-p.-jorge/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/author/maria-luisa-s.-p.-jorge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/author/maria-luisa-s.-p.-jorge/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/author/milton-cezar-ribeiro/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/author/milton-cezar-ribeiro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/author/milton-cezar-ribeiro/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/publication/2021-oshima-etal/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/publication/2021-oshima-etal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/publication/2021-oshima-etal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/author/thadeu-sobral-souza/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/author/thadeu-sobral-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/author/thadeu-sobral-souza/"
                 />
   </url>
   
@@ -423,36 +513,6 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/pt/author/julia-emi-de-faria-oshima/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/author/julia-emi-de-faria-oshima/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/author/julia-emi-de-faria-oshima/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/author/luca-borger/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/author/luca-borger/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/author/luca-borger/"
-                />
-  </url>
-  
-  <url>
     <loc>https://mauriciovancine.github.io/pt/author/marco-aurelio-pizo/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -464,66 +524,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://mauriciovancine.github.io/pt/author/marco-aurelio-pizo/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/author/maria-luisa-s.-p.-jorge/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/author/maria-luisa-s.-p.-jorge/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/author/maria-luisa-s.-p.-jorge/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/author/milton-cezar-ribeiro/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/author/milton-cezar-ribeiro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/author/milton-cezar-ribeiro/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/publication/2021-oshima-etal/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/publication/2021-oshima-etal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/publication/2021-oshima-etal/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/author/thadeu-sobral-souza/</loc>
-    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/author/thadeu-sobral-souza/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/author/thadeu-sobral-souza/"
                 />
   </url>
   
@@ -705,6 +705,11 @@
                 hreflang="pt"
                 href="https://mauriciovancine.github.io/pt/talk/talk-sdm-uff/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/talk/talk-spatial-uff/</loc>
+    <lastmod>2021-04-02T14:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1039,36 +1044,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://mauriciovancine.github.io/pt/author/natalia-stefanini-da-silveira/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/courses/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/courses/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/courses/course-geospatial-data-r/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/courses/course-geospatial-data-r/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/courses/course-geospatial-data-r/"
                 />
   </url>
   
@@ -2687,16 +2662,16 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/pt/book/</loc>
+    <loc>https://mauriciovancine.github.io/pt/courses/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mauriciovancine.github.io/book/"
+                href="https://mauriciovancine.github.io/courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/book/"
+                href="https://mauriciovancine.github.io/pt/courses/"
                 />
   </url>
   

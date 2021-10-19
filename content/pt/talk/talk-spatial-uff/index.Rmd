@@ -1,0 +1,42 @@
+---
+title: "Aplicações da Cartografia para a Ecologia Espacial"
+subtitle: 
+draft: false
+event: "Palestra sobre as aplicações da cartografia para a Ecologia Espacial à convite do Prof. Jackson Martins Rodrigues (UFF)"
+event_url: 
+location: Angra dos Reis, RJ, Brasil (Remoto)
+summary: "Aplicações da cartografia para a Ecologia Espacial"
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2021-04-02T14:00:00Z"
+date_end: "2021-04-02T16:00:00Z"
+all_day: false
+publishdate: "2020-04-02"
+
+links:
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: "https://mauriciovancine.github.io/slides/talk-sdm-uff.pdf"
+- icon: video
+  icon_pack: fas
+  name: video
+  url: "https://youtu.be/oMyIMY3X7pU"
+
+categories:
+  - talk
+tags:
+  - spatial
+  - spatial ecology
+  - species distribution modeling
+lastmod: 
+featured: no
+image:
+  caption: "Imagem de Maurício Vancine"
+  focal_point: "center"
+  preview_only: no
+projects: []
+---
+
+A cartografia possui diversas aplicações em outras áreas de conhecimento que necessitam realizar a visualização de dados geoespaciais. Nessa palestra demonstro algumas aplicações da cartografia para a Ecologia Espacial, principalmente em relação aos Modelos de Distribuição de Espécies.
