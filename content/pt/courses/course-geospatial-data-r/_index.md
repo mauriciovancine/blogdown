@@ -40,7 +40,7 @@ A disciplina oferecerá os principais conceitos teórico-práticos do uso de dad
 ### Informações aos participantes
 
 **Datas e horários** <br>
-Teórico-prático: 25/10/2021-29/10/2021<br>
+Teórico-prático: 25/10/2021-29/10/2021 <br>
 Exercícios-atividades assistidas remotamente: 01/11/2021-05/11/2021
 
 **Plano de ensino** <br> 

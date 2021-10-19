@@ -41,8 +41,8 @@ The course will offer the main theoretical and practical concepts of the use of 
 ### Information to participants
 
 **Dates and times** <br>
-Theoretical-practical: <br>
-Remotely assisted exercises-activities: 
+Theoretical-practical: 25/10/2021-29/10/2021 <br>
+Remotely assisted exercises-activities: 01/11/2021-05/11/2021
 
 **Teaching plan** <br>
 [pdf](https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/00_plano_ensino/plano_ensino_analise_geoespacial_r.pdf)
