@@ -18,7 +18,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: "https://mauriciovancine.github.io/slides/talk-sdm-esalq.pdf"
+  url: "https://mauriciovancine.github.io/slides/slides-sdm-esalq.pdf"
 
 categories:
   - talk

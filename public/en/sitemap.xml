@@ -123,6 +123,66 @@
   </url>
   
   <url>
+    <loc>https://mauriciovancine.github.io/talk/talk-sdm-uff/</loc>
+    <lastmod>2021-11-04T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/talk/talk-sdm-uff/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/talk/talk-sdm-uff/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/talk/</loc>
+    <lastmod>2021-11-04T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/tag/species-distribution-modeling/</loc>
+    <lastmod>2021-11-04T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tag/species-distribution-modeling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tag/species-distribution-modeling/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/category/talk/</loc>
+    <lastmod>2021-11-04T14:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/category/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/category/talk/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mauriciovancine.github.io/workshop/workshop-qgis-unesp-biology-2021/</loc>
     <lastmod>2021-10-08T08:00:00+00:00</lastmod>
     <xhtml:link
@@ -164,21 +224,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mauriciovancine.github.io/workshop/workshop-sdm-moco-2021/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/tag/species-distribution-modeling/</loc>
-    <lastmod>2021-09-25T09:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/tag/species-distribution-modeling/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/tag/species-distribution-modeling/"
                 />
   </url>
   
@@ -633,32 +678,17 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/talk/talk-sdm-uff/</loc>
+    <loc>https://mauriciovancine.github.io/talk/talk-spatial-uff/</loc>
     <lastmod>2021-04-02T14:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/talk/talk-sdm-uff/"
+                href="https://mauriciovancine.github.io/pt/talk/talk-spatial-uff/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mauriciovancine.github.io/talk/talk-sdm-uff/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/talk/</loc>
-    <lastmod>2021-04-02T14:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/talk/"
+                href="https://mauriciovancine.github.io/talk/talk-spatial-uff/"
                 />
   </url>
   
@@ -1004,21 +1034,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mauriciovancine.github.io/talk/talk-sdm-gggc/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/category/talk/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/category/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/category/talk/"
                 />
   </url>
   
