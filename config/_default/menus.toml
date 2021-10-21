@@ -26,14 +26,14 @@
 [[main]]
   name = "Workshops"
   url = "/workshop"
-  weight = 60
+  weight = 50
 
 [[main]]
   name = "Courses"
   url = "/courses"
-  weight = 70
+  weight = 60
   
 [[main]]
   name = "CV"
   url = "https://mauriciovancine.github.io/cv/cv-mauricio-vancine-en-academic-complete.html"
-  weight = 80
+  weight = 70
