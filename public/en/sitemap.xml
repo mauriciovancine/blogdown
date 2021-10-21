@@ -2606,16 +2606,16 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/courses/</loc>
+    <loc>https://mauriciovancine.github.io/course/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/courses/"
+                href="https://mauriciovancine.github.io/pt/course/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mauriciovancine.github.io/courses/"
+                href="https://mauriciovancine.github.io/course/"
                 />
   </url>
   

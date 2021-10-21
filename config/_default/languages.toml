@@ -36,7 +36,7 @@
     weight = 50
   [[pt.menu.main]]
     name = "Disciplinas"
-    url = "/courses"
+    url = "/course"
     weight = 60  
   [[pt.menu.main]]
     name = "CV"
