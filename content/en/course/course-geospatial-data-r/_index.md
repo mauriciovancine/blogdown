@@ -1,8 +1,8 @@
 ---
 title: Introduction to the use of geospatial data in R
 summary: Learn the main theoretical and practical concepts of the use of geospatial data with R applied to Ecology
-date: 2021-10-25
-lastmod: 2021-10-19
+date: 2021-10-21
+lastmod: 2021-10-21
 linktitle:
 menu:
   example:

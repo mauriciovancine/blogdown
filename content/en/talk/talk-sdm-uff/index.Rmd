@@ -1,11 +1,11 @@
 ---
-title: "Modelos em Ecologia: extrapolando nosso conhecimento sobre a distribuição das espécies"
+title: "Models in Ecology: Extrapolating our knowledge of species distribution"
 subtitle: 
 draft: false
-event: "Palestra sobre as aplicações de Modelos de Distribuição de Espécies à convite do Prof. Jackson Martins Rodrigues (UFF)"
+event: "Lecture on the applications of Species Distribution Models invited by the Prof. Jackson Martins Rodrigues (UFF)"
 event_url: 
 location: Angra dos Reis, RJ, Brasil (Remoto)
-summary: "Aplicações dos Modelos de Distribuição de Espécies"
+summary: "Applications of Species Distribution Models"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -33,4 +33,4 @@ image:
 projects: []
 ---
 
-Nessa palestra comento e exemplifico algumas aplicações teóricas e práticas em relação aos Modelos de Distribuição de Espécies.
+In this lecture, I comment on and illustrate some theoretical and practical applications in relation to Species Distribution Models.

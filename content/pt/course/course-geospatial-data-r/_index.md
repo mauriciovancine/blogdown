@@ -1,8 +1,8 @@
 ---
 title: Introdução ao uso de dados geoespaciais no R
 summary: A disciplina oferece os principais conceitos teórico-práticos do uso de dados geoespaciais no R aplicados à Ecologia
-date: 2021-10-25
-lastmod: 2021-10-19
+date: 2021-10-21
+lastmod: 2021-10-21
 linktitle:
 menu:
   example:

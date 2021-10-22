@@ -1,0 +1,1132 @@
+<!DOCTYPE html><html lang="pt" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  
+  
+  <meta name="generator" content="Wowchemy 5.0.0-beta.1 for Hugo">
+  
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Maurício Vancine">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="A disciplina oferece os principais conceitos teórico-práticos do uso de dados geoespaciais no R aplicados à Ecologia">
+
+  
+  <link rel="alternate" hreflang="en" href="https://mauriciovancine.github.io/course/course-geospatial-data-r/">
+  
+  <link rel="alternate" hreflang="pt" href="https://mauriciovancine.github.io/pt/course/course-geospatial-data-r/">
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2369bd">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/rainbow.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/rainbow.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
+    
+
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:400,400i%7CUbuntu:400,400i,700,700i%7CUbuntu&display=swap">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.ace530d76dc981214984540f6837f416.css">
+
+  
+
+
+
+
+  
+
+  
+
+
+  
+  
+
+  
+  <link rel="alternate" href="/pt/course/course-geospatial-data-r/index.xml" type="application/rss+xml" title="Maurício Vancine">
+  
+
+  <link rel="manifest" href="/pt/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://mauriciovancine.github.io/pt/course/course-geospatial-data-r/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@mauriciovancine">
+  <meta property="twitter:creator" content="@mauriciovancine">
+  
+  <meta property="og:site_name" content="Maurício Vancine">
+  <meta property="og:url" content="https://mauriciovancine.github.io/pt/course/course-geospatial-data-r/">
+  <meta property="og:title" content="Introdução ao uso de dados geoespaciais no R | Maurício Vancine">
+  <meta property="og:description" content="A disciplina oferece os principais conceitos teórico-práticos do uso de dados geoespaciais no R aplicados à Ecologia"><meta property="og:image" content="https://mauriciovancine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://mauriciovancine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="pt">
+  
+    <meta property="og:updated_time" content="2021-10-21T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Introdução ao uso de dados geoespaciais no R | Maurício Vancine</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  ">
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.25bb65fc185bceea61395d5b0560127a.js"></script>
+
+  
+
+<aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Pesquisar</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Pesquisar..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/pt/">Maurício Vancine</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Alterar navegação">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/pt/">Maurício Vancine</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/pt/post"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/pt/talk"><span>Palestras</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/pt/video"><span>Vídeos</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/pt/publication"><span>Publicações</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/pt/workshop"><span>Workshops</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/pt/course"><span>Disciplinas</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/pt/cv/cv-mauricio-vancine-pt-academic-complete.html" target="_blank" rel="noopener"><span>CV</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Pesquisar"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">Português</span></a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>Português</span>
+          </div>
+          
+          <a class="dropdown-item" href="https://mauriciovancine.github.io/course/course-geospatial-data-r/">
+            <span>English</span>
+          </a>
+          
+        </div>
+      </li>
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+  
+    
+  
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Pesquisar..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
+  
+    
+  
+
+  
+  <div class="docs-toc-item active">
+    <a class="docs-toc-link" href="/pt/course/course-geospatial-data-r/"></a>
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Nesta página</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#descrição">Descrição</a>
+      <ul>
+        <li><a href="#programa-de-pós-graduação-em-ecologia-evolução-e-biodiversidade">Programa de Pós-Graduação em Ecologia, Evolução e Biodiversidade</a></li>
+        <li><a href="#informações-aos-participantes">Informações aos participantes</a></li>
+        <li><a href="#instruções-aos-participantes">Instruções aos participantes</a></li>
+      </ul>
+    </li>
+    <li><a href="#material">Material</a>
+      <ul>
+        <li><a href="#site">Site</a></li>
+        <li><a href="#slides">Slides</a></li>
+      </ul>
+    </li>
+    <li><a href="#scripts">Scripts</a></li>
+  </ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>Introdução ao uso de dados geoespaciais no R</h1>
+
+          <div class="article-style">
+            <h2 id="descrição">Descrição</h2>
+<h3 id="programa-de-pós-graduação-em-ecologia-evolução-e-biodiversidade">Programa de Pós-Graduação em Ecologia, Evolução e Biodiversidade</h3>
+<p><strong>Docente responsável</strong> <br>
+Prof. Milton Cezar Ribeiro</p>
+<p><strong>Docente convidado</strong> <br>
+Prof. Maurício Humberto Vancine</p>
+<p><strong>Período</strong> <br>
+25/10/2021 - 05/11/2021</p>
+<p><strong>Créditos</strong> <br>
+60 horas (4 créditos)</p>
+<p><strong>Vagas</strong> <br>
+10 + 5 especiais</p>
+<p><strong>Resumo</strong> <br>
+A disciplina oferecerá os principais conceitos teóricos e práticos quanto ao funcionamento da linguagem R e seu uso para manipulação e visualização de dados tabulares e geoespaciais, com enfoque em Ecologia Geral. Serão abordados os seguintes temas: (1) controle de versão, git e GitHub, (2) funcionamento da linguagem R, (3) estrutura e manipulação de dados no R, (4) introdução ao tidyverse, (5) visualização de dados no R, (6) estrutura e fonte de dados geoespaciais, (7) estrutura e manipulação de dados vetoriais no R, (8) estrutura e manipulação de dados matriciais no R e (9) visualização de dados geoespaciais no R. A carga horária total será de 60 horas, onde nos cinco dias iniciais serão ministrados 6 horas de aulas teórico-práticas, num total de 30 horas. As 30 horas restantes serão direcionadas à formulação e execução de um projeto com dados reais, como forma de avaliação para compor a nota final da disciplina. Após a realização da disciplina, espera-se que as alunas e alunos adquiram conceitos gerais sobre a estrutura, manipulação e visualização de dados tabulares e geoespaciais, assim como domínio das técnicas e métodos para alcançar autonomia e produzir soluções para suas próprias questões relativas à geocomputação utilizando a linguagem R.</p>
+<hr>
+<h3 id="informações-aos-participantes">Informações aos participantes</h3>
+<p><strong>Datas e horários</strong> <br>
+Teórico-prático: 25/10/2021-29/10/2021 <br>
+Exercícios-atividades assistidas remotamente: 01/11/2021-05/11/2021</p>
+<p><strong>Plano de ensino</strong> <br>
+<a href="https://github.com/mauriciovancine/course-geospatial-data-r/blob/master/00_plano_ensino/plano_ensino_analise_geoespacial_r.pdf" target="_blank" rel="noopener">pdf</a></p>
+<p><strong>Contato</strong> <br>
+Para mais informações ou dúvidas, envie e-mail para Maurício Vancine (<a href="mailto:mauricio.vancine@gmail.com">mauricio.vancine@gmail.com</a>)</p>
+<hr>
+<h3 id="instruções-aos-participantes">Instruções aos participantes</h3>
+<p><strong>Hardware</strong> <br>
+Será necessário que todos usem seus notebooks</p>
+<p><strong>Softwares</strong><br>
+R, RStudio e git <br></p>
+<ol>
+<li>Instalar a versão mais recente do <a href="https://www.r-project.org" target="_blank" rel="noopener">R (4.1.1)</a> e <a href="https://www.rstudio.com" target="_blank" rel="noopener">RStudio (2021.09.0-351)</a></li>
+</ol>
+<ul>
+<li><a href="https://youtu.be/l1bWvZMNMCM" target="_blank" rel="noopener">Vídeo de instalação do R e do RStudio</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLucm8g_ezqNq0RMHvzZ8M32xhopFhmsr6" target="_blank" rel="noopener">Curso da linguagem R</a></li>
+</ul>
+<ol start="2">
+<li>Instalar o <a href="https://git-scm.com/downloads" target="_blank" rel="noopener">git (2.33)</a></li>
+</ol>
+<ul>
+<li><a href="https://youtu.be/QSfHNEiBd2k" target="_blank" rel="noopener">Vídeo de instalação do git</a></li>
+</ul>
+<p><strong>Contas on-line</strong> <br>
+Criem uma conta no GitHub e guardem essas três informações:</p>
+<ul>
+<li>usuário</li>
+<li>email</li>
+<li>senha</li>
+</ul>
+<h4 id="linux-ubuntu-e-linux-mint">Linux (Ubuntu e Linux Mint)</h4>
+<pre><code># r
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
+gpg --keyserver keyserver.ubuntu.com --recv-key E298A3A825C0D65DFD57CBB651716619E084DAB9
+gpg -a --export E298A3A825C0D65DFD57CBB651716619E084DAB9 | sudo apt-key add -
+sudo add-apt-repository &quot;deb https://cloud.r-project.org/bin/linux/ubuntu focal-cran40/&quot;
+sudo apt update
+sudo apt install -y r-base r-base-core r-recommended r-base-dev
+
+# r spatial
+sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
+sudo apt update
+sudo apt install -y libudunits2-dev libgdal-dev libgeos-dev libproj-dev
+
+# rstudio
+wget -c https://download1.rstudio.org/desktop/bionic/amd64/rstudio-2021.09.0%2B351-amd64.deb &amp;&amp;
+sudo dpkg -i rstudio-2021.09.0+351-amd64.deb &amp;&amp;
+sudo apt install -fy &amp;&amp; 
+rm rstudio-2021.09.0+351-amd64.deb
+
+# git
+sudo add-apt-repository ppa:git-core/ppa 
+sudo apt update
+sudo apt install -y git
+
+</code></pre>
+<p><strong>Instalar os pacotes no R</strong> <br>
+Com o R e o RStudio instalados, baixe esse <a href="https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/02_scripts/00_script_geospatial_data_r.R" target="_blank" rel="noopener">script</a> (scripts são roteiros que possuem comandos, como um rascunho). <br>
+Abra o script (<strong>00_script_geospatial_data_r.R</strong>) no software RStudio e rode cada linha de comando para instalar os pacotes, necessário estar conectado à internet. <br>
+Para rodar as linhas, basta colocar o cursor na linha de código a ser executada e pressionar: <code>Ctrl + Enter</code>.</p>
+<hr>
+<h2 id="material">Material</h2>
+<h3 id="site">Site</h3>
+<ul>
+<li><a href="https://mauriciovancine.github.io/course-geospatial-data-r/" target="_blank" rel="noopener">link</a></li>
+</ul>
+<h3 id="slides">Slides</h3>
+<p><a href="https://mauriciovancine.github.io/course-geospatial-data-r/01_slides/00_slides_geospatial_data_r.html#1" target="_blank" rel="noopener">0. Apresentações</a> <br>
+<a href="https://mauriciovancine.github.io/course-geospatial-data-r/01_slides/01_slides_geospatial_data_r.html#1" target="_blank" rel="noopener">1. Controle de versão, Git e GitHub</a> <br>
+<a href="https://mauriciovancine.github.io/course-geospatial-data-r/01_slides/02_slides_geospatial_data_r.html#1" target="_blank" rel="noopener">2. Funcionamento da linguagem R</a> <br>
+<a href="https://mauriciovancine.github.io/course-geospatial-data-r/01_slides/03_slides_geospatial_data_r.html#1l" target="_blank" rel="noopener">3. Estrutura e manipulação de dados</a> <br>
+<a href="https://mauriciovancine.github.io/course-geospatial-data-r/01_slides/04_slides_geospatial_data_r.html#1" target="_blank" rel="noopener">4. Introdução ao tidyverse</a> <br>
+<a href="https://mauriciovancine.github.io/course-geospatial-data-r/01_slides/05_pres_geospatial_data_r.html" target="_blank" rel="noopener">5. Visualização de dados</a> <br>
+<a href="https://mauriciovancine.github.io/course-geospatial-data-r/01_slides/05_pres_geospatial_data_r.html" target="_blank" rel="noopener">6. Estrutura e fonte de dados geoespaciais</a> <br>
+<a href="https://mauriciovancine.github.io/course-geospatial-data-r/01_slides/06_pres_geospatial_data_r.html" target="_blank" rel="noopener">7. Estrutura e manipulação de dados vetoriais</a> <br>
+<a href="https://mauriciovancine.github.io/course-geospatial-data-r/01_slides/07_pres_geospatial_data_r.html" target="_blank" rel="noopener">8. Estrutura e manipulação de dados matriciais</a> <br>
+<a href="https://mauriciovancine.github.io/course-geospatial-data-r/01_slides/08_pres_geospatial_data_r.html" target="_blank" rel="noopener">9. Visualização de dados geoespaciais</a></p>
+<hr>
+<h2 id="scripts">Scripts</h2>
+<p><a href="https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/02_scripts/03_script_intro_geoespacial_r.R" target="_blank" rel="noopener">1. Instalar pacotes</a> <br>
+<a href="https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/02_scripts/03_script_intro_geoespacial_r.R" target="_blank" rel="noopener">3. Estrutura e manipulação de dados</a> <br>
+<a href="https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/02_scripts/04_script_intro_geoespacial_r.R" target="_blank" rel="noopener">4. Introdução ao tidyverse</a> <br>
+<a href="https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/02_scripts/05_script_intro_geoespacial_r.R" target="_blank" rel="noopener">5. Visualização de dados</a> <br>
+<a href="https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/02_scripts/07_script_intro_geoespacial_r.R" target="_blank" rel="noopener">7. Estrutura e manipulação de dados vetoriais</a> <br>
+<a href="https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/02_scripts/08_script_intro_geoespacial_r.R" target="_blank" rel="noopener">8. Estrutura e manipulação de dados matriciais</a> <br>
+<a href="https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/02_scripts/09_script_intro_geoespacial_r.R" target="_blank" rel="noopener">9. Visualização de dados geoespaciais</a></p>
+<hr>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Última atualização em Oct 21, 2021</p>
+
+          
+
+
+
+          
+
+
+
+
+          
+
+
+
+
+        </div>
+
+      </article>
+
+      
+  
+<footer class="site-footer">
+  
+
+<p class="powered-by">
+  © Maurício Vancine 2021
+</p>
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+
+<p class="powered-by">
+  
+
+
+Published with
+<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
+the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
+  open source</a> website builder that empowers creators.
+
+</p>
+  </footer>
+
+
+
+    </main>
+  </div>
+</div>
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Citação</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copiar
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.8.0/mermaid.min.js" integrity="sha512-ja+hSBi4JDtjSqc4LTBsSwuBT3tdZ3oKYKd07lTVYmCnTCor56AnRql00ssqnTOR9Ss4gOP/ROGB3SfcJnZkeg==" crossorigin="anonymous" title="mermaid"></script>
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/bash.min.js"></script>
+        
+      
+
+    
+
+    
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/pt/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"Sem resultados","placeholder":"Pesquisar...","results":"Resultados encontrados"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projetos",
+        'publication' : "Publicações",
+        'event' : "Palestras",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.2/anchor.min.js" integrity="sha512-I7w3ZdSFzw5j3jU3ZkNikBNeIrl3i+hEuEdwNmqUJvwNcaBUNcijnP2gd9DtGlgVYDplfjGoD8vTNsID+lCjqg==" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/js/wowchemy.min.572b7caf7fe601716a0f74d67d754c21.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

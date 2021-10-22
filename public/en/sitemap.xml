@@ -183,6 +183,36 @@
   </url>
   
   <url>
+    <loc>https://mauriciovancine.github.io/course/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/course/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/course/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/course/course-geospatial-data-r/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/course/course-geospatial-data-r/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/course/course-geospatial-data-r/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mauriciovancine.github.io/workshop/workshop-qgis-unesp-biology-2021/</loc>
     <lastmod>2021-10-08T08:00:00+00:00</lastmod>
     <xhtml:link
@@ -2602,20 +2632,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mauriciovancine.github.io/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/course/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/course/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/course/"
                 />
   </url>
   
