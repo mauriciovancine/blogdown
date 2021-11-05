@@ -18,3 +18,35 @@ projects: []
 ---
 
 Escrevendo...
+
+# R - Markdown
+
+## 0. rmarkdown
+github: https://github.com/rstudio/rmarkdown
+
+1. xaringan
+github: https://github.com/yihui/xaringan
+wiki: https://github.com/yihui/xaringan/wiki
+
+2. blogdown
+github: https://github.com/rstudio/blogdown
+book: https://bookdown.org/yihui/blogdown/
+
+3. bookdown
+site: https://bookdown.org/
+github: https://github.com/rstudio/bookdown
+book: https://bookdown.org/yihui/bookdown/
+
+4.pagedown
+site:
+github: https://github.com/rstudio/pagedown
+
+5. posterdown
+github: https://github.com/brentthorne/posterdown
+
+6. icon
+site: https://ropensci.org/technotes/2018/05/15/icon/
+github: https://github.com/ropenscilabs/icon
+
+7. convert script
+knitr::purl("document.Rmd")

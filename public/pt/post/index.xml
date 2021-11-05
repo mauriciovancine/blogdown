@@ -454,6 +454,10 @@ raster::writeRaster(x = mun_raster,
 &lt;td style=&#34;text-align:left&#34;&gt;Dados de elevação para o mundo&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://www.ngdc.noaa.gov/mgg/global/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ETOPO1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Dados de elevação para o mundo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://opentopography.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenTopography&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Dados de elevação para o mundo&lt;/td&gt;
 &lt;/tr&gt;
@@ -479,6 +483,10 @@ raster::writeRaster(x = mun_raster,
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://glad.umd.edu/dataset/global-land-cover-land-use-v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Global land cover and land use 2019&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Dados de uso e cobertura da terra para todo o planeta&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://esa-worldcover.org/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WorldCover&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Dados de uso e cobertura da terra para todo o planeta&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
