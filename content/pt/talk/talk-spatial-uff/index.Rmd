@@ -18,7 +18,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: "https://mauriciovancine.github.io/slides/slides-spatial-uff.pdf"
+  url: "https://mauriciovancine.github.io/slides/slides-spatial-uff/slides-spatial-uff.pdf"
 - icon: video
   icon_pack: fas
   name: video

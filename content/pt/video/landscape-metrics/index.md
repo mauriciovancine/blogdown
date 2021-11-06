@@ -10,7 +10,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: https://mauriciovancine.github.io/slides/talk-landscape-metrics-geocast.pdf
+  url: https://mauriciovancine.github.io/slides/slides-landscape-metrics-geocast/slides-landscape-metrics-geocast.pdf
 - icon: file
   icon_pack: fas
   name: script

@@ -558,6 +558,66 @@
   </url>
   
   <url>
+    <loc>https://mauriciovancine.github.io/tag/grass-gis/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tag/grass-gis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tag/grass-gis/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/video/grass/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/video/grass/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/video/grass/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/tag/remote-sensing/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tag/remote-sensing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tag/remote-sensing/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/video/</loc>
+    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/video/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mauriciovancine.github.io/author/erison-carlos-monteiro/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -993,6 +1053,81 @@
   </url>
   
   <url>
+    <loc>https://mauriciovancine.github.io/tag/ecology/</loc>
+    <lastmod>2020-11-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tag/ecology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tag/ecology/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/video/statistical-models-ecology-geography/</loc>
+    <lastmod>2020-11-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/video/statistical-models-ecology-geography/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/video/statistical-models-ecology-geography/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/video/abe-data-analysis/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/video/abe-data-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/video/abe-data-analysis/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/tag/covid19/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tag/covid19/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tag/covid19/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/video/unesp-covid/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/video/unesp-covid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/video/unesp-covid/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mauriciovancine.github.io/tag/rspatial/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1019,21 +1154,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mauriciovancine.github.io/tag/tutorial/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/video/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/video/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/video/"
                 />
   </url>
   

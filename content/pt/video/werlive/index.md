@@ -19,7 +19,7 @@ links:
 
 # We R Live
 
-Eu e [Felipe Sodré](https://twitter.com/FelipeSMBarros), por meio do canal  [GeoCast Brasil](https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ) no YouTube, criamos este projeto para compartilhar um pouco do nosso conhecimento sobre o manejo e visualização de dados geoespaciais através da linguagem R. Sempre partindo de uma situação problema, apresentamos os principais conceitos teóricos e abordagens práticas para a sua resolução
+Eu e [Felipe Sodré](https://felipesbarros.github.io/), por meio do canal  [GeoCast Brasil](https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ) no YouTube, criamos este projeto para compartilhar um pouco do nosso conhecimento sobre o manejo e visualização de dados geoespaciais através da linguagem R. Sempre partindo de uma situação problema, apresentamos os principais conceitos teóricos e abordagens práticas para a sua resolução
 
 ### <u>We R Live 01 - Por onde começaR?</u>
 
