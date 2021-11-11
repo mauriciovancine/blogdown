@@ -130,12 +130,12 @@ To run the lines of code, just place the cursor on the line of code and press: `
 
 ### Scripts
 
-[1. Install packages](https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/02_scripts/03_script_intro_geoespacial_r.R) <br>
-[3. Data structure and manipulation](https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/02_scripts/03_script_intro_geoespacial_r.R) <br>
-[4. Introduction to tidyverse](https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/02_scripts/04_script_intro_geoespacial_r.R) <br>
-[5. Data visualization](https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/02_scripts/05_script_intro_geoespacial_r.R) <br>
-[7. Structure and manipulation of vector data](https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/02_scripts/07_script_intro_geoespacial_r.R) <br>
-[8. Structure and manipulation of raster data](https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/02_scripts/08_script_intro_geoespacial_r.R) <br>
-[9. Geospatial data visualization](https://mauriciovancine.github.io/course-geospatial-data-r/blob/master/02_scripts/09_script_intro_geoespacial_r.R)
+[1. Install packages](https://github.com/mauriciovancine/course-geospatial-data-r/blob/master/02_scripts/00_script_intro_geoespacial_r.R) <br>
+[3. Data structure and manipulation](https://github.com/mauriciovancine/course-geospatial-data-r/blob/master/02_scripts/03_script_intro_geoespacial_r.R) <br>
+[4. Introduction to tidyverse](https://github.com/mauriciovancine/course-geospatial-data-r/blob/master/02_scripts/04_script_intro_geoespacial_r.R) <br>
+[5. Data visualization](https://github.com/mauriciovancine/course-geospatial-data-r/blob/master/02_scripts/05_script_intro_geoespacial_r.R) <br>
+[7. Structure and manipulation of vector data](https://github.com/mauriciovancine/course-geospatial-data-r/blob/master/02_scripts/07_script_intro_geoespacial_r.R) <br>
+[8. Structure and manipulation of raster data](https://github.com/mauriciovancine/course-geospatial-data-r/blob/master/02_scripts/08_script_intro_geoespacial_r.R) <br>
+[9. Geospatial data visualization](https://github.com/mauriciovancine/course-geospatial-data-r/blob/master/02_scripts/09_script_intro_geoespacial_r.R)
 
 ---
