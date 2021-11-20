@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ecological niche modeling | Maurício Vancine</title>
+    <link>https://mauriciovancine.github.io/tag/ecological-niche-modeling/</link>
+      <atom:link href="https://mauriciovancine.github.io/tag/ecological-niche-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>ecological niche modeling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Maurício Vancine 2021</copyright><lastBuildDate>Thu, 16 Jul 2020 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mauriciovancine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>ecological niche modeling</title>
+      <link>https://mauriciovancine.github.io/tag/ecological-niche-modeling/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to Ecological Niche Modeling</title>
+      <link>https://mauriciovancine.github.io/talk/talk-enm-gggc/</link>
+      <pubDate>Thu, 16 Jul 2020 10:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/talk/talk-enm-gggc/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/talk/talk-enm-gggc/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;The Ecological Niche Models (ENM) relate species occurrence data with their environmental conditions to estimate the species niche and thus predict new areas of possible distribution. In this lecture, I talked about the main concepts, input data and applications of this approach in the area of Ecology and performed a practice in R.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

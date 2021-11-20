@@ -1122,6 +1122,19 @@ Figura 10: Site epsg.io com códigos EPSG. Fonte: epsg.io.
     </item>
     
     <item>
+      <title>Introdução à Modelagem de Nicho Ecológico</title>
+      <link>https://mauriciovancine.github.io/pt/talk/talk-enm-gggc/</link>
+      <pubDate>Thu, 16 Jul 2020 10:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/talk/talk-enm-gggc/</guid>
+      <description>
+&lt;script src=&#34;https://mauriciovancine.github.io/pt/talk/talk-enm-gggc/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Os Modelos de Nicho Ecológico (SDM - Ecological Niche Models) relacionam dados de ocorrências das espécies com suas condições ambientais para estimar o nicho das espécies e assim predizer novas áreas de possível distribuição. Nessa palestra, falei dos principais conceitos, dados de entrada e aplicações dessa abordagem na área de Ecologia e realizei uma prática no R.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Unesp realiza estudo para verificar a importância do isolamento social</title>
       <link>https://mauriciovancine.github.io/pt/video/unesp-covid/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>

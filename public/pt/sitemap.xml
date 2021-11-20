@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://mauriciovancine.github.io/pt/categories/</loc>
-    <lastmod>2021-11-10T09:00:00+00:00</lastmod>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,7 +34,7 @@
   
   <url>
     <loc>https://mauriciovancine.github.io/pt/</loc>
-    <lastmod>2021-11-10T09:00:00+00:00</lastmod>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -49,7 +49,7 @@
   
   <url>
     <loc>https://mauriciovancine.github.io/pt/tag/r/</loc>
-    <lastmod>2021-11-10T09:00:00+00:00</lastmod>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,7 +64,7 @@
   
   <url>
     <loc>https://mauriciovancine.github.io/pt/tags/</loc>
-    <lastmod>2021-11-10T09:00:00+00:00</lastmod>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -139,7 +139,7 @@
   
   <url>
     <loc>https://mauriciovancine.github.io/pt/talk/</loc>
-    <lastmod>2021-11-04T14:00:00+00:00</lastmod>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -169,7 +169,7 @@
   
   <url>
     <loc>https://mauriciovancine.github.io/pt/category/talk/</loc>
-    <lastmod>2021-11-04T14:00:00+00:00</lastmod>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1205,6 +1205,36 @@
   <url>
     <loc>https://mauriciovancine.github.io/pt/tag/rstats/</loc>
     <lastmod>2020-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/tag/ecological-niche-modeling/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tag/ecological-niche-modeling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tag/ecological-niche-modeling/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/talk/talk-enm-gggc/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/talk/talk-enm-gggc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/talk/talk-enm-gggc/"
+                />
   </url>
   
   <url>
