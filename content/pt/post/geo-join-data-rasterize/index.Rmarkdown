@@ -155,7 +155,7 @@ Agora precisamos dos municípios. Vamos usar os dados oficiais do IBGE, baixando
 
 ```{r message=FALSE, warning=FALSE}
 # vetor
-mun <- geobr::read_municipality(code_muni = "all", year = 2010, showProgress = FALSE)
+mun <- geobr::read_municipality(code_muni = "all", year = 2013, showProgress = FALSE)
 
 # map
 tm_shape(mun) +
