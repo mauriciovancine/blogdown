@@ -3,8 +3,188 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mauriciovancine.github.io/pt/publication-type/2/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/publication-type/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/publication-type/2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/authors/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/author/diego-astua/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/author/diego-astua/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/author/diego-astua/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/publication/2022-ribeiro-etal/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/publication/2022-ribeiro-etal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/publication/2022-ribeiro-etal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/author/jose-salatiel-pires/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/author/jose-salatiel-pires/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/author/jose-salatiel-pires/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/author/mauricio-e.-graipel/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/author/mauricio-e.-graipel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/author/mauricio-e.-graipel/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/author/mauricio-humberto-vancine/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/author/mauricio-humberto-vancine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/author/mauricio-humberto-vancine/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/author/paula-ribeiro-souza/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/author/paula-ribeiro-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/author/paula-ribeiro-souza/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/publication_types/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/publication/</loc>
+    <lastmod>2022-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/post/</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/post/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mauriciovancine.github.io/pt/categories/</loc>
-    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,6 +195,46 @@
                 hreflang="pt"
                 href="https://mauriciovancine.github.io/pt/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/tag/grass/</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/category/grass/</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/post/grass-gis-introduction/</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/tag/python/</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/tags/</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/category/tutorial/</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,21 +253,6 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/pt/</loc>
-    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/"
-                />
-  </url>
-  
-  <url>
     <loc>https://mauriciovancine.github.io/pt/tag/r/</loc>
     <lastmod>2021-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -59,21 +264,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://mauriciovancine.github.io/pt/tag/r/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/tags/</loc>
-    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/tags/"
                 />
   </url>
   
@@ -258,36 +448,6 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/pt/publication-type/2/</loc>
-    <lastmod>2021-09-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/publication-type/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/publication-type/2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/authors/</loc>
-    <lastmod>2021-09-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/authors/"
-                />
-  </url>
-  
-  <url>
     <loc>https://mauriciovancine.github.io/pt/author/calebe-p-mendes/</loc>
     <lastmod>2021-09-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -344,51 +504,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://mauriciovancine.github.io/pt/author/mauro-galetti/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/author/mauricio-humberto-vancine/</loc>
-    <lastmod>2021-09-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/author/mauricio-humberto-vancine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/author/mauricio-humberto-vancine/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/publication_types/</loc>
-    <lastmod>2021-09-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/publication/</loc>
-    <lastmod>2021-09-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/publication/"
                 />
   </url>
   
@@ -663,21 +778,6 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/pt/post/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/post/"
-                />
-  </url>
-  
-  <url>
     <loc>https://mauriciovancine.github.io/pt/post/geo-geospatial-data/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url>
@@ -940,11 +1040,6 @@
                 hreflang="pt"
                 href="https://mauriciovancine.github.io/pt/tag/tutorial/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/category/tutorial/</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>

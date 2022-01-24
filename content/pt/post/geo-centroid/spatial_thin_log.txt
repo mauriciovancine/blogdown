@@ -1,0 +1,38 @@
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Fri Dec 17 12:34:28 2021
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Fri Dec 17 12:36:01 2021
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Fri Dec 17 12:37:16 2021
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Fri Dec 17 12:37:33 2021
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Fri Dec 17 12:41:04 2021
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Fri Dec 17 12:41:30 2021
+
+Thinning Parameter Used (in km): 25
+********************************************** 
+ Beginning Spatial Thinning.
+ Script Started at: Fri Dec 17 12:41:54 2021
+
+Thinning Parameter Used (in km): 25
+Number of replicates of thinning script: 1
+
+Elapsed time for thinning completion
+0.054 0 0.054 0 0
+
+Number of data.frames per locations retained
+loc.cnt df.freq
+150
+1
+Maximum number of records after thinning: 150
+Number of data.frames with max records: 1
+
+**New *.csv file creation:**
