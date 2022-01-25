@@ -168,23 +168,8 @@
   </url>
   
   <url>
-    <loc>https://mauriciovancine.github.io/pt/post/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/post/"
-                />
-  </url>
-  
-  <url>
     <loc>https://mauriciovancine.github.io/pt/categories/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -195,46 +180,6 @@
                 hreflang="pt"
                 href="https://mauriciovancine.github.io/pt/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/tag/grass/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/category/grass/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/post/grass-gis-introduction/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/tag/python/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/tags/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciovancine.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mauriciovancine.github.io/pt/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mauriciovancine.github.io/pt/category/tutorial/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -264,6 +209,21 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://mauriciovancine.github.io/pt/tag/r/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/tags/</loc>
+    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/tags/"
                 />
   </url>
   
@@ -778,6 +738,21 @@
   </url>
   
   <url>
+    <loc>https://mauriciovancine.github.io/pt/post/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/post/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mauriciovancine.github.io/pt/post/geo-geospatial-data/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url>
@@ -1040,6 +1015,11 @@
                 hreflang="pt"
                 href="https://mauriciovancine.github.io/pt/tag/tutorial/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/category/tutorial/</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -5,21 +5,12 @@
     <link>https://mauriciovancine.github.io/pt/post/</link>
       <atom:link href="https://mauriciovancine.github.io/pt/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Maurício Vancine 2022</copyright><lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Maurício Vancine 2022</copyright><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mauriciovancine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Blog</title>
       <link>https://mauriciovancine.github.io/pt/post/</link>
     </image>
-    
-    <item>
-      <title>Introdução ao GRASS GIS</title>
-      <link>https://mauriciovancine.github.io/pt/post/grass-gis-introduction/</link>
-      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://mauriciovancine.github.io/pt/post/grass-gis-introduction/</guid>
-      <description>&lt;p&gt;Escrevendo&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Formatos de dados geoespaciais</title>
@@ -557,6 +548,10 @@ raster::writeRaster(x = mun_raster,
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://www.earthenv.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EarthEnv&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Dados de cobertura da terra, nuvens, relevo e hidrografia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://www.wwf.org.br/natureza_brasileira/reducao_de_impactos2/programa_ciencias/dados_geoespaciais_16012018_1932/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WWF - Dados geoespaciais&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Diversos dados geoespaciais para o mundo&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://cgiarcsi.community/category/data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CGIAR-CSI - Consortium for Spatial Information&lt;/a&gt;&lt;/td&gt;
