@@ -1,0 +1,32 @@
+---
+title: "Mapas coropléticos bivariados e trivariados no R"
+author: mauriciovancine
+date: "2022-12-20"
+slug: []
+categories: [r,tutorial]
+tags: [r,rstats,rspatial,landscape ecology]
+subtitle: ""
+summary: "Um guia para mapas vetoriais e raster com duas e três variáveis no R"
+authors: []
+lastmod: r`Sys.time()`
+featured: no
+image:
+  caption: "[Imagem do pacote biscale](https://slu-opengis.github.io/biscale/)"
+  focal_point: "center"
+  preview_only: no
+projects: []
+---
+
+Escrevendo...
+
+https://slu-opengis.github.io/biscale/
+
+https://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/
+
+https://cran.r-project.org/web/packages/tricolore/vignettes/choropleth_maps_with_tricolore.html
+
+https://cran.r-project.org/web/packages/pals/vignettes/bivariate_choropleths.html
+
+https://stackoverflow.com/questions/48572744/plot-a-bivariate-map-in-r
+
+https://cartographicperspectives.org/index.php/journal/article/view/1538/1819
