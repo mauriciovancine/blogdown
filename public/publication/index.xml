@@ -5,12 +5,20 @@
     <link>https://mauriciovancine.github.io/publication/</link>
       <atom:link href="https://mauriciovancine.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Maurício Vancine 2022</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Maurício Vancine 2022</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mauriciovancine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://mauriciovancine.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Forest cover and connectivity have pervasive effects on the maintenance of evolutionary distinct interactions in seed dispersal networks</title>
+      <link>https://mauriciovancine.github.io/publication/2022-monteiro-etal/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/publication/2022-monteiro-etal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effects of climate change on distribution and areas that protect two neotropical marsupials associated with aquatic environments</title>
@@ -33,14 +41,6 @@
       <link>https://mauriciovancine.github.io/publication/2021-oshima-etal/</link>
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://mauriciovancine.github.io/publication/2021-oshima-etal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Forest cover and connectivity have pervasive effects on the maintenance of evolutionary distinct interactions in seed dispersal networks</title>
-      <link>https://mauriciovancine.github.io/publication/2022-monteiro-etal/</link>
-      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://mauriciovancine.github.io/publication/2022-monteiro-etal/</guid>
       <description></description>
     </item>
     
