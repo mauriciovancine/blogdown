@@ -5,12 +5,50 @@
     <link>https://mauriciovancine.github.io/pt/course/</link>
       <atom:link href="https://mauriciovancine.github.io/pt/course/index.xml" rel="self" type="application/rss+xml" />
     <description>Disciplinas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Maurício Vancine 2022</copyright><lastBuildDate>Thu, 21 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© Maurício Vancine 2022</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mauriciovancine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Disciplinas</title>
       <link>https://mauriciovancine.github.io/pt/course/</link>
     </image>
+    
+    <item>
+      <title>GeoR - Dados Geoespaciais no R</title>
+      <link>https://mauriciovancine.github.io/pt/course/geor/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/pt/course/geor/</guid>
+      <description>&lt;a href=&#34;https://geor-course.netlify.app/&#34;&gt;
+  &lt;img src=&#34;geor.png&#34; align=&#34;center&#34;&gt;
+&lt;/a&gt; 
+&lt;h2 id=&#34;o-que-você-irá-aprender&#34;&gt;O que você irá aprender&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ter noções gerais do funcionamento prático do controle de versão através do git e GitHub&lt;/li&gt;
+&lt;li&gt;Entender os principais elementos da linguagem R e o uso da IDE RStudio&lt;/li&gt;
+&lt;li&gt;Compreender o funcionamento do fluxo de trabalho do tidyverse (importar, transformar, visualizar, modelar, comunicar)&lt;/li&gt;
+&lt;li&gt;Adquirir noções gerais dos principais conceitos relacionados ao geoprocessamento&lt;/li&gt;
+&lt;li&gt;Usar a linguagem R para manipulação e operações em dados geoespaciais&lt;/li&gt;
+&lt;li&gt;Criar mapas para visualização de dados geoespaciais&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;visão-geral-do-programa&#34;&gt;Visão geral do programa&lt;/h2&gt;
+&lt;p&gt;Na GeoR, os alunes serão apresentados aos principais conceitos teóricos e práticos do funcionamento da linguagem R e seu uso para manipulação e visualização de dados tabulares e geoespaciais. Serão abordados temas como controle de versão, git e GitHub; funcionamento da linguagem R; estrutura e manipulação de dados no R; visão geral do tidyverse; visualização de dados tabulares; estrutura e fonte de dados geoespaciais; e visualização de dados geoespaciais.&lt;/p&gt;
+&lt;h2 id=&#34;conheça-os-instrutores&#34;&gt;Conheça os instrutores&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://mauriciovancine.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Maurício Humberto Vancine (convidado)&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://leec.eco.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Milton Cezar Ribeiro (responsável)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;mais-informações&#34;&gt;Mais informações&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://geor-course.netlify.app/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;Site&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;licença&#34;&gt;Licença&lt;/h2&gt;
+&lt;p&gt;A versão online deste livro será sempre &lt;strong&gt;gratuita&lt;/strong&gt; e distribuída sob a liceça &lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

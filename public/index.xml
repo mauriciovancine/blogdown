@@ -5,12 +5,58 @@
     <link>https://mauriciovancine.github.io/</link>
       <atom:link href="https://mauriciovancine.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Maurício Vancine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Maurício Vancine 2022</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Maurício Vancine 2022</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mauriciovancine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Maurício Vancine</title>
       <link>https://mauriciovancine.github.io/</link>
     </image>
+    
+    <item>
+      <title>GeoR - Geospatial Data in R</title>
+      <link>https://mauriciovancine.github.io/course/geor/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/course/geor/</guid>
+      <description>&lt;a href=&#34;https://geor-course.netlify.app/&#34;&gt;
+  &lt;img src=&#34;geor.png&#34; align=&#34;center&#34;&gt;
+&lt;/a&gt; 
+&lt;h2 id=&#34;what-you-will-learn&#34;&gt;What you will learn&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Get a general understanding of the practical workings of version control through git and GitHub&lt;/li&gt;
+&lt;li&gt;Understand the main elements of the R language and the use of the RStudio IDE&lt;/li&gt;
+&lt;li&gt;Understand how the tidyverse workflow works (import, transform, visualize, model, communicate)&lt;/li&gt;
+&lt;li&gt;Acquire general notions of the main concepts related to geoprocessing&lt;/li&gt;
+&lt;li&gt;Use the R language for manipulation and operations on geospatial data&lt;/li&gt;
+&lt;li&gt;Create maps for visualization of geospatial data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;program-overview&#34;&gt;Program overview&lt;/h2&gt;
+&lt;p&gt;In GeoR students will be introduced to the main theoretical and practical concepts of the R language and its use for manipulation and visualization of tabular and geospatial data. Topics such as version control, git and GitHub will be covered; functioning of the R language; data structure and manipulation in R; tidyverse overview; tabular data visualization; geospatial data structure and source; and visualization of geospatial data.&lt;/p&gt;
+&lt;h2 id=&#34;meet-instructors&#34;&gt;Meet instructors&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://mauriciovancine.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Maurício Humberto Vancine (convidado)&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://leec.eco.br/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Milton Cezar Ribeiro (responsável)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;more-informations&#34;&gt;More informations&lt;/h2&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;https://geor-course.netlify.app/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;Site&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;The online version of this book will always be &lt;strong&gt;free&lt;/strong&gt; and distributed under license &lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate change impacts on the Copernicia alba and Copernicia prunifera (Arecaceae) distribution in South America</title>
+      <link>https://mauriciovancine.github.io/publication/2022-costa-etal/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://mauriciovancine.github.io/publication/2022-costa-etal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forest cover and connectivity have pervasive effects on the maintenance of evolutionary distinct interactions in seed dispersal networks</title>

@@ -1,7 +1,10 @@
 ---
+title: Courses
+type: page
+
+view: compact
+
 header:
-  caption: ""
-  image: ""
-title: "Courses"
-view: 3
+  caption: ''
+  image: ''
 ---

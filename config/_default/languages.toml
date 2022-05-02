@@ -31,14 +31,18 @@
     url = "/publication"
     weight = 40
   [[pt.menu.main]]
+    name = "Livros"
+    url = "/books"
+    weight = 50  
+  [[pt.menu.main]]
     name = "Workshops"
     url = "/workshop"
-    weight = 50
+    weight = 60
   [[pt.menu.main]]
     name = "Disciplinas"
     url = "/course"
-    weight = 60  
+    weight = 70  
   [[pt.menu.main]]
     name = "CV"
     url = "https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.html"
-    weight = 70
+    weight = 80
