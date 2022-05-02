@@ -18,7 +18,7 @@ interests:
 - Ecological Modeling
 - Species Distribution Modeling
 - Amphibian Ecology
-- Open source / Free software
+- Open source/Free software
 organizations:
 - name: São Paulo State University (UNESP)
   url: "https://www.rc.unesp.br/"

@@ -18,7 +18,7 @@ interests:
 - Modelagem Ecológica
 - Modelos de Distribuição de Espécies
 - Ecologia de Anfíbios
-- Open source / Free software
+- Open source/Free software
 organizations:
 - name: Universidade Estadual Paulista (UNESP)
   url: "https://www.rc.unesp.br/"

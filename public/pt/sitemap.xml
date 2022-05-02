@@ -183,6 +183,21 @@
   </url>
   
   <url>
+    <loc>https://mauriciovancine.github.io/pt/publication-type/5/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/publication-type/5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/publication-type/5/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mauriciovancine.github.io/pt/books/ecological-analysis-r/</loc>
     <lastmod>2022-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -198,6 +213,21 @@
   </url>
   
   <url>
+    <loc>https://mauriciovancine.github.io/pt/publication/2022-da-silva-etal/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/publication/2022-da-silva-etal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/publication/2022-da-silva-etal/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mauriciovancine.github.io/pt/books/</loc>
     <lastmod>2022-03-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -209,6 +239,66 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://mauriciovancine.github.io/pt/books/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/author/diogo-borges-provete/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/author/diogo-borges-provete/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/author/diogo-borges-provete/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/author/fernando-rodrigues-da-silva/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/author/fernando-rodrigues-da-silva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/author/fernando-rodrigues-da-silva/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/author/gustavo-brant-paterno/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/author/gustavo-brant-paterno/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/author/gustavo-brant-paterno/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciovancine.github.io/pt/author/thiago-goncalves-souza/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciovancine.github.io/author/thiago-goncalves-souza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mauriciovancine.github.io/pt/author/thiago-goncalves-souza/"
                 />
   </url>
   
