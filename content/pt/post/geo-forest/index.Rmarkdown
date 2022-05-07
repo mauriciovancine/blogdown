@@ -1,0 +1,26 @@
+---
+title: Bases de dados de cobertura da terra
+author: mauriciovancine
+date: "2023-03-07"
+slug: []
+categories: [dataset,landscape metrics,land cover]
+tags: [dataset]
+subtitle: ""
+summary: "Listagem e comparação de diferente bases de dados de cobertura da terra"
+authors: []
+lastmod: r`Sys.time()`
+featured: no
+image:
+  caption: "[Imagem de Copernicus Global Land Service](https://land.copernicus.eu/global/products/lc)"
+  focal_point: "center"
+  preview_only: no
+projects: []
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Contextualização
+
+

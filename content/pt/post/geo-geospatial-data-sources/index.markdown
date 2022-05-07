@@ -33,11 +33,6 @@ Além das bases de dados, há pacotes específicos no R que fazem o download de 
 
 ### Vetor
 
-Dentre as bases vetoriais, destaco as seguintes na Tabela <a href="#tab:tab-vetor-bases">1</a>:
-
-
-Table: Table 1: Principais bases de dados vetoriais para o Brasil e o mundo.
-
 |Bases de dados                                                                                     |Descrição                                                                                                     |
 |:--------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|
 |[IBGE](https://www.ibge.gov.br/geociencias/downloads-geociencias.html)                             |Limites territoriais e censitários do Brasil                                                                  |
@@ -74,11 +69,6 @@ Table: Table 1: Principais bases de dados vetoriais para o Brasil e o mundo.
 |[International Institute for Applied Systems Analysis (IIASA)](https://iiasa.ac.at/)               |Dados de mudanças climáticas, segurança energética, envelhecimento da população e desenvolvimento sustentável |
 
 ### Raster
-
-Dentre as bases raster, destaco as seguintes na Tabela <a href="#tab:tab-raster-bases">2</a>:
-
-
-Table: Table 2: Principais bases de dados raster para o Brasil e o mundo.
 
 |Bases de dados                                                                                                                                  |Descrição                                                                                                                          |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
@@ -129,17 +119,13 @@ Table: Table 2: Principais bases de dados raster para o Brasil e o mundo.
 
 ### Pacotes do R
 
-Dentre os pacotes no R para download de dados geográficos, destaco os seguintes na Tabela <a href="#tab:tab-packages-bases">3</a>:
-
-
-Table: Table 3: Principais pacotes no R para download de dados vetoriais e raster.
-
 |Pacotes                                                                           |Descrição                                                                            |
 |:---------------------------------------------------------------------------------|:------------------------------------------------------------------------------------|
-|[geobr](https://cran.r-project.org/web/packages/geobr/index.html)                 |Carrega Shapefiles de Conjuntos de Dados Espaciais Oficiais do Brasil                |
+|[geobr](https://ipeagit.github.io/geobr/)                                         |Carrega Shapefiles de Conjuntos de Dados Espaciais Oficiais do Brasil                |
 |[sidrar](https://cran.r-project.org/web/packages/sidrar/index.html)               |Accessa os dados do SIDRA - Sistema IBGE de Recuperação Automática                   |
 |[rnaturalearth](https://cran.r-project.org/web/packages/rnaturalearth/index.html) |Dados do mapa mundial da Natural Earth                                               |
 |[rworldmap](https://cran.r-project.org/web/packages/rworldmap/index.html)         |Mapeando Dados Globais                                                               |
+|[geodata](https://cran.r-project.org/web/packages/geodata/index.html)             |Conjuntos de dados para análise espacial                                             |
 |[spData](https://cran.r-project.org/web/packages/spData/index.html)               |Conjuntos de dados para análise espacial                                             |
 |[OpenStreetMap](https://cran.r-project.org/web/packages/OpenStreetMap/index.html) |Acesso para abrir imagens raster de mapas de ruas                                    |
 |[osmdata](https://cran.r-project.org/web/packages/osmdata/index.html)             |Baixe e importe dados do OpenStreetMap                                               |

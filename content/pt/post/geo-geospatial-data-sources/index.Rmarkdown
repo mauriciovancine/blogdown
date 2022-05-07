@@ -37,8 +37,6 @@ Além das bases de dados, há pacotes específicos no R que fazem o download de 
 
 ### Vetor
 
-Dentre as bases vetoriais, destaco as seguintes na Tabela \@ref(tab:tab-vetor-bases):
-
 ```{r tab-vetor-bases, echo=FALSE}
 kable(
   tibble(
@@ -112,8 +110,6 @@ kable(
 ```
 
 ### Raster
-
-Dentre as bases raster, destaco as seguintes na Tabela \@ref(tab:tab-raster-bases):
 
 ```{r tab-raster-bases, echo=FALSE}
 kable(
@@ -213,15 +209,14 @@ kable(
 
 ### Pacotes do R
 
-Dentre os pacotes no R para download de dados geográficos, destaco os seguintes na Tabela \@ref(tab:tab-packages-bases):
-
 ```{r tab-packages-bases, echo=FALSE}
 kable(
   tibble(
-    Pacotes = c("[geobr](https://cran.r-project.org/web/packages/geobr/index.html)",
+    Pacotes = c("[geobr](https://ipeagit.github.io/geobr/)",
                 "[sidrar](https://cran.r-project.org/web/packages/sidrar/index.html)",
                 "[rnaturalearth](https://cran.r-project.org/web/packages/rnaturalearth/index.html)",
                 "[rworldmap](https://cran.r-project.org/web/packages/rworldmap/index.html)",
+                "[geodata](https://cran.r-project.org/web/packages/geodata/index.html)",
                 "[spData](https://cran.r-project.org/web/packages/spData/index.html)",
                 "[OpenStreetMap](https://cran.r-project.org/web/packages/OpenStreetMap/index.html)",
                 "[osmdata](https://cran.r-project.org/web/packages/osmdata/index.html)",
@@ -242,6 +237,7 @@ kable(
                   "Accessa os dados do SIDRA - Sistema IBGE de Recuperação Automática",
                   "Dados do mapa mundial da Natural Earth", 
                   "Mapeando Dados Globais",
+                  "Conjuntos de dados para análise espacial",
                   "Conjuntos de dados para análise espacial",
                   "Acesso para abrir imagens raster de mapas de ruas",
                   "Baixe e importe dados do OpenStreetMap",
